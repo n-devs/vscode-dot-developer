@@ -2,7 +2,7 @@
   "name": "vscode-dark-developer",
   "displayName": "Dark Developer Theme",
   "icon": "images/dev-icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VS Code Dark Developer Theme ",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/npsk26/vscode-dark-developer.git"
   },
-  "publisher": "npsk26",
+  "publisher": "n-psk",
   "keywords": [
     "Theme",
     "Dark Theme"
