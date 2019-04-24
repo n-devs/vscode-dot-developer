@@ -2,7 +2,7 @@
   "name": "vscode-dark-developer",
   "displayName": "Dark Developer Theme",
   "icon": "images/dev-icon.png",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "VS Code Dark Developer Theme ",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "galleryBanner": {
-    "color": "",
+    "color": "#444444",
     "theme": "dark"
   },
   "repository": {
