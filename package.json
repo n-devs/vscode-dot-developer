@@ -1,0 +1,48 @@
+{
+  "name": "vscode-dark-developer",
+  "displayName": "Dark Developer Theme",
+  "icon": "images/dev-icon.png",
+  "version": "1.0.0",
+  "description": "VS Code Dark Developer Theme ",
+  "main": "index.js",
+  "scripts": {
+    "list": "vsce ls",
+    "publish": "vsce publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "galleryBanner": {
+    "color": "",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npsk26/vscode-dark-developer.git"
+  },
+  "publisher": "npsk26",
+  "keywords": [
+    "Theme",
+    "Dark Theme"
+  ],
+  "author": "Nutthapat Piesangka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npsk26/vscode-dark-developer/issues"
+  },
+  "homepage": "https://github.com/npsk26/vscode-dark-developer#readme",
+  "engines": {
+    "vscode": "^1.33.1"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Developer (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Developer-color-theme.json"
+      }
+    ]
+  }
+}
