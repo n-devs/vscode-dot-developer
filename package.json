@@ -2,13 +2,11 @@
   "name": "vscode-dark-developer",
   "displayName": "Dark Developer Theme",
   "icon": "images/dev-icon.png",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "VS Code Dark Developer Theme ",
-  "main": "index.js",
   "scripts": {
     "list": "vsce ls",
-    "publish": "vsce publish",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "vsce publish"
   },
   "galleryBanner": {
     "color": "#444444",
@@ -25,10 +23,6 @@
   ],
   "author": "Nutthapat Piesangka",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/npsk26/vscode-dark-developer/issues"
-  },
-  "homepage": "https://github.com/npsk26/vscode-dark-developer#readme",
   "engines": {
     "vscode": "^1.33.1"
   },
