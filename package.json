@@ -19,7 +19,8 @@
   "publisher": "n-psk",
   "keywords": [
     "Theme",
-    "Dark Theme"
+    "Dark Theme",
+    "Light Theme"
   ],
   "author": "Nutthapat Piesangka",
   "license": "ISC",
@@ -36,6 +37,11 @@
         "label": "Dark Developer (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Developer-color-theme.json"
+      },
+      {
+        "label": "Dark Developer (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Light-Developer-color-theme.json"
       }
     ]
   }
