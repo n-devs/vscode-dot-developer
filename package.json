@@ -2,7 +2,7 @@
   "name": "vscode-dark-developer",
   "displayName": "Dark Developer Theme",
   "icon": "images/dev-icon.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "VS Code Dark Developer Theme ",
   "scripts": {
     "list": "vsce ls",
@@ -44,5 +44,8 @@
         "path": "./themes/Light-Developer-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^1.69.0"
   }
 }
