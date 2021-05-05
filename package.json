@@ -9,8 +9,8 @@
     "publish": "vsce publish"
   },
   "galleryBanner": {
-    "color": "#444444",
-    "theme": "dark"
+    "color": "#fff",
+    "theme": "light"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,6 @@
   "publisher": "n-devs",
   "keywords": [
     "Theme",
-    "Dark Theme",
     "Light Theme"
   ],
   "author": "Nutthapat Piesangka",
@@ -34,13 +33,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dot Developer (Dark)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Dark-Developer-color-theme.json"
-      },
-      {
         "label": "Dot Developer (Light)",
-        "uiTheme": "vs-light",
+        "uiTheme": "vs",
         "path": "./themes/Light-Developer-color-theme.json"
       }
     ]
