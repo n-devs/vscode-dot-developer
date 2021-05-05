@@ -2,7 +2,7 @@
   "name": "vscode-dot-developer",
   "displayName": "Dot Developer Theme",
   "icon": "images/dev-icon.png",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "VS Code Dot Developer Theme ",
   "scripts": {
     "list": "vsce ls",
@@ -40,6 +40,6 @@
     ]
   },
   "devDependencies": {
-    "vsce": "^1.69.0"
+    "vsce": "^1.88.0"
   }
 }

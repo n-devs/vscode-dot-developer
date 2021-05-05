@@ -445,7 +445,7 @@ url-join@^1.1.0:
   resolved "https://registry.yarnpkg.com/url-join/-/url-join-1.1.0.tgz#741c6c2f4596c4830d6718460920d0c92202dc78"
   integrity sha1-dBxsL0WWxIMNZxhGCSDQySIC3Hg=
 
-vsce@^1.69.0:
+vsce@^1.88.0:
   version "1.88.0"
   resolved "https://registry.yarnpkg.com/vsce/-/vsce-1.88.0.tgz#748dc9f75996d97a5953408848c56c4c1b4dca6b"
   integrity sha512-FS5ou3G+WRnPPr/tWVs8b/jVzeDacgZHy/y7/QQW7maSPFEAmRt2bFGUJtJVEUDLBqtDm/3VGMJ7D31cF2U1tw==
