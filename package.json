@@ -1,9 +1,9 @@
 {
-  "name": "vscode-dark-developer",
-  "displayName": "Dark Developer Theme",
+  "name": "vscode-dot-developer",
+  "displayName": "Dot Developer Theme",
   "icon": "images/dev-icon.png",
   "version": "1.0.4",
-  "description": "VS Code Dark Developer Theme ",
+  "description": "VS Code Dot Developer Theme ",
   "scripts": {
     "list": "vsce ls",
     "publish": "vsce publish"
@@ -14,9 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npsk26/vscode-dark-developer.git"
+    "url": "git+https://github.com/n-devs/vscode-dot-developer.git"
   },
-  "publisher": "n-psk",
+  "publisher": "n-devs",
   "keywords": [
     "Theme",
     "Dark Theme",
@@ -34,13 +34,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Developer (Dark)",
+        "label": "Dot Developer (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark-Developer-color-theme.json"
       },
       {
-        "label": "Dark Developer (Light)",
-        "uiTheme": "vs",
+        "label": "Dot Developer (Light)",
+        "uiTheme": "vs-light",
         "path": "./themes/Light-Developer-color-theme.json"
       }
     ]
