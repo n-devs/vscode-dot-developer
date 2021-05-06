@@ -11,10 +11,13 @@ As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version
 About this theme, and some of the considerations made while creating it (as well as _how_ to create it should you want to make your own): [https://css-tricks.com/creating-a-vs-code-theme/](https://css-tricks.com/creating-a-vs-code-theme/)
 
 ## Dot Developer
-![First Screen 0](images/img0.jpg)
-![First Screen 1](images/img1.jpg)
-![First Screen 2](images/img2.jpg)
-![First Screen 3](images/img3.jpg)
+![First Screen 0](images/img0.png)
+
+![First Screen 1](images/img1.png)
+
+![First Screen 2](images/img2.png)
+
+![First Screen 3](images/img3.png)
 
 # Installation
 
