@@ -1,7 +1,7 @@
 /* Styles in here based on Wes Bos's Cobalt2 custom styles */
 
 .monaco-shell {
-    font-family: "Operator Mono", "Fira code", "Inconsolata", monospace;
+    font-family: "Fira code";
     letter-spacing: .5px;
 }
 
@@ -142,6 +142,6 @@
     border-bottom: 1px solid #b15a91;
 }
 
-.monaco-workbench .tabs-container .tab * {
+/* .monaco-workbench .tabs-container .tab * {
     font-style: italic;
-}
+} */
