@@ -2,7 +2,7 @@
   "name": "vscode-dot-developer",
   "displayName": "Dot Developer Theme",
   "icon": "images/dev-icon.png",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "VS Code Dot Developer Theme ",
   "scripts": {
     "list": "vsce ls",
@@ -25,7 +25,7 @@
   "author": "Nutthapat Piesangka",
   "license": "ISC",
   "engines": {
-    "vscode": "^1.88.0"
+    "vscode": "^2.22.0"
   },
   "categories": [
     "Themes",
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "vsce": "^1.88.0"
+    "@vscode/vsce": "^2.22.0"
   }
 }

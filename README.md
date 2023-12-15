@@ -1,5 +1,9 @@
 # Dot Developer 
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/n-devs.vscode-dot-developer.svg)](https://marketplace.visualstudio.com/items?itemName=n-devs.vscode-dot-developer)
+[![Install](https://vsmarketplacebadge.apphb.com/installs/n-devs.vscode-dot-developer.svg)](https://marketplace.visualstudio.com/items?itemName=n-devs.vscode-dot-developer)
+[![Rating(Star)](https://vsmarketplacebadge.apphb.com/rating-star/n-devs.vscode-dot-developer.svg)](https://marketplace.visualstudio.com/items?itemName=n-devs.vscode-dot-developer)
+
 A Visual Studio Code theme for the Dot Developers out there. Fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with colorblindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 As of 1.0.0, there's a Light Owl Theme too! Color balanced from the Dark version for easy viewing in daylight. 🌅

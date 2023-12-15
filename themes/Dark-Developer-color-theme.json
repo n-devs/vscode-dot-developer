@@ -1,6 +1,6 @@
 {
-	"name": "Dot Developer (Light)",
-	"type": "light",
+	"name": "Dot Developer (Dark)",
+	"type": "dark",
 	"colors": {
 		// Base
 		"foreground": "#918fab",
