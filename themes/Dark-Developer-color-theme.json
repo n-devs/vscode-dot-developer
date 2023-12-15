@@ -80,7 +80,7 @@
 		"sideBarSectionHeader.border": "#28334c",
 		// Scroll Bar
 		"scrollbarSlider.background": "#313d5c23",
-		"scrollbarSlider.activeBackground": "#313d5c",
+		"scrollbarSlider.activeBackground": "#313d5c77",
 		"scrollbarSlider.hoverBackground": "#313d5cab",
 		"scrollbar.shadow": "#313d5c23",
 		// Tabs
@@ -215,6 +215,85 @@
 		"icon.foreground": "#d3e8f8",
 	},
 	"tokenColors": [
+		// HTML
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"foreground": "#00B2FF"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name, string.quoted.double.json",
+			"settings": {
+				"foreground": "#fed404ea"
+			}
+		},
+		{
+			"name": "Tag Other",
+			"scope": "meta.tag.other, entity.name.tag.style, entity.name.tag.script, meta.tag.block.script, source.js.embedded punctuation.definition.tag.html, source.css.embedded punctuation.definition.tag.html",
+			"settings": {
+				"foreground": "#1ab2f8"
+			}
+		},
+		{
+			"name": "equals (=) before value HTML tag",
+			"scope": "meta.tag.metadata.meta.void.html,punctuation.separator.key-value.html",
+			"settings": {
+				"foreground": "#FED604"
+			}
+		},
+		{
+			"name": "<>/ in HTML Tags",
+			"scope": "punctuation.definition.tag.html, punctuation.definition.tag.begin, punctuation.definition.tag.end",
+			"settings": {
+				"foreground": "#0587c4"
+			}
+		},
+		{
+			"name": "Tag Value",
+			"scope": "meta.tag string -source -punctuation, text source text meta.tag string -punctuation",
+			"settings": {
+				"foreground": "#37E7AC"
+			}
+		},
+		{
+			"name": "Meta Brace",
+			"scope": "punctuation.section.embedded -(source string source punctuation.section.embedded), meta.brace.erb.html",
+			"settings": {
+				"foreground": "#D0B344"
+			}
+		},
+		{
+			"name": "HTML ID",
+			"scope": "meta.toc-list.id",
+			"settings": {
+				"foreground": "#88F2AF"
+			}
+		},
+		{
+			"name": "HTML String",
+			"scope": "string.quoted.double.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, string.quoted.double.handlebars",
+			"settings": {
+				"foreground": "#37E7AC"
+			}
+		},
+		{
+			"name": "start and end of comment",
+			"scope": "punctuation.definition.comment.html",
+			"settings": {
+				"foreground": "#304047"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment.block.html",
+			"settings": {
+				"foreground": "#4d595f"
+			}
+		},
+		// JS
 		{
 			"name": "Function declarations",
 			"scope": [
