@@ -2,7 +2,7 @@
   "name": "vscode-dot-developer",
   "displayName": "Dot Developer Theme",
   "icon": "images/dev-icon.png",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "VS Code Dot Developer Theme ",
   "scripts": {
     "list": "vsce ls",
@@ -20,7 +20,7 @@
   "publisher": "n-devs",
   "keywords": [
     "Theme",
-    "Light Theme"
+    "Dark Theme"
   ],
   "author": "Nutthapat Piesangka",
   "license": "ISC",
@@ -34,9 +34,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dot Developer (Light)",
+        "label": "Dot Developer (Dark)",
         "uiTheme": "vs",
-        "path": "./themes/Light-Developer-color-theme.json"
+        "path": "./themes/Dark-Developer-color-theme.json"
       }
     ]
   },

@@ -20,7 +20,7 @@ const Body = props => {
 const Foo = () => <div>
   <div></div>
 </div>
-
+s
 // This is equivalent to the last example
 function Page(props, context) {
   return (
